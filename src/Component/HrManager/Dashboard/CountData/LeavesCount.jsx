@@ -245,7 +245,7 @@ const LeaveCount = (props) => {
               <div className=" d-flex flex-column gap-3">
                 <div className="d-flex justify-content-between align-items-center  flex-nowrap">
                   <p className="fw-bold my-auto pt-2 text-muted">
-                    On Pending Leaves
+                    Leaves Request
                   </p>
                   <span
                     className="fw-bolder text-info"
@@ -274,7 +274,7 @@ const LeaveCount = (props) => {
               <div className="d-flex flex-column gap-3">
                 <div className="d-flex justify-content-between align-items-center  flex-nowrap">
                   <p className="fw-bold my-auto pt-2 text-muted">
-                    On Approved Leaves{" "}
+                    Approved Leaves{" "}
                   </p>
                   <span
                     className="fw-bolder text-info"
@@ -305,7 +305,7 @@ const LeaveCount = (props) => {
               <div className="d-flex flex-column gap-3">
                 <div className="d-flex justify-content-between align-items-center  flex-nowrap">
                   <p className="fw-bold my-auto pt-2 text-muted">
-                    On Rejected Leaves
+                    Rejected Leaves
                   </p>
                   <span
                     className="fw-bolder text-info"
